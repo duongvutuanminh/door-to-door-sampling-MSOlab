@@ -1,0 +1,177 @@
+Current solution for the data set: 20.5.1.txt 
+
+Try with the number of technician = 1
+
+Time of tour: 1
+Tour of technician: [0, 16, 19, 15, 3, 5, 7, 4, 2, 17, 6, 8, 14, 13, 20, 12, 9, 1, 10, 18, 11, 0]
+Distance of the tour: 21.289642444163352
+Time taken to complete tour: 36.71 minutes
+
+Technician 1 ---> node 0 : 0.0 minutes
+Technician 1 ---> node 16 : 2.06 minutes
+Technician 1 ---> node 19 : 3.58 minutes
+Technician 1 ---> node 15 : 5.51 minutes
+Technician 1 ---> node 3 : 10.79 minutes
+Technician 1 ---> node 5 : 12.5 minutes
+Technician 1 ---> node 7 : 14.39 minutes
+Technician 1 ---> node 4 : 16.36 minutes
+Technician 1 ---> node 2 : 17.31 minutes
+Technician 1 ---> node 17 : 18.58 minutes
+Technician 1 ---> node 6 : 20.53 minutes
+Technician 1 ---> node 8 : 20.9 minutes
+Technician 1 ---> node 14 : 23.43 minutes
+Technician 1 ---> node 13 : 25.57 minutes
+Technician 1 ---> node 20 : 25.85 minutes
+Technician 1 ---> node 12 : 28.51 minutes
+Technician 1 ---> node 9 : 30.55 minutes
+Technician 1 ---> node 1 : 31.35 minutes
+Technician 1 ---> node 10 : 31.6 minutes
+Technician 1 ---> node 18 : 33.09 minutes
+Technician 1 ---> node 11 : 33.92 minutes
+
+
+Time when the last technician come back to the lab: 36.71 minutes
+###########################################
+
+Try with the number of technician = 2
+
+Time of tour: 1
+Tour of technician: [0, 3, 5, 7, 4, 2, 17, 6, 8, 14, 13, 20, 0]
+Distance of the tour: 12.643522414469226
+Time taken to complete tour: 21.8 minutes
+
+Technician 1 ---> node 0 : 0.0 minutes
+Technician 1 ---> node 3 : 4.14 minutes
+Technician 1 ---> node 5 : 5.85 minutes
+Technician 1 ---> node 7 : 7.73 minutes
+Technician 1 ---> node 4 : 9.71 minutes
+Technician 1 ---> node 2 : 10.66 minutes
+Technician 1 ---> node 17 : 11.92 minutes
+Technician 1 ---> node 6 : 13.88 minutes
+Technician 1 ---> node 8 : 14.25 minutes
+Technician 1 ---> node 14 : 16.78 minutes
+Technician 1 ---> node 13 : 18.92 minutes
+Technician 1 ---> node 20 : 19.2 minutes
+
+Time of tour: 2
+Tour of technician: [0, 16, 19, 15, 11, 18, 10, 1, 9, 12, 0]
+Distance of the tour: 9.245390654187629
+Time taken to complete tour: 15.94 minutes
+
+Technician 2 ---> node 0 : 0.0 minutes
+Technician 2 ---> node 16 : 2.06 minutes
+Technician 2 ---> node 19 : 3.58 minutes
+Technician 2 ---> node 15 : 5.51 minutes
+Technician 2 ---> node 11 : 8.22 minutes
+Technician 2 ---> node 18 : 9.05 minutes
+Technician 2 ---> node 10 : 10.55 minutes
+Technician 2 ---> node 1 : 10.79 minutes
+Technician 2 ---> node 9 : 11.59 minutes
+Technician 2 ---> node 12 : 13.64 minutes
+
+
+Time when the last technician come back to the lab: 21.8 minutes
+###########################################
+
+Try with the number of technician = 3
+
+Time of tour: 1
+Tour of technician: [0, 15, 19, 16, 3, 5, 7, 0]
+Distance of the tour: 9.59851484842844
+Time taken to complete tour: 16.55 minutes
+
+Technician 1 ---> node 0 : 0.0 minutes
+Technician 1 ---> node 15 : 3.31 minutes
+Technician 1 ---> node 19 : 5.24 minutes
+Technician 1 ---> node 16 : 6.77 minutes
+Technician 1 ---> node 3 : 10.58 minutes
+Technician 1 ---> node 5 : 12.29 minutes
+Technician 1 ---> node 7 : 14.18 minutes
+
+Time of tour: 2
+Tour of technician: [0, 4, 2, 17, 6, 8, 14, 13, 20, 0]
+Distance of the tour: 9.063988447737817
+Time taken to complete tour: 15.63 minutes
+
+Technician 2 ---> node 0 : 0.0 minutes
+Technician 2 ---> node 4 : 3.54 minutes
+Technician 2 ---> node 2 : 4.48 minutes
+Technician 2 ---> node 17 : 5.75 minutes
+Technician 2 ---> node 6 : 7.71 minutes
+Technician 2 ---> node 8 : 8.08 minutes
+Technician 2 ---> node 14 : 10.61 minutes
+Technician 2 ---> node 13 : 12.75 minutes
+Technician 2 ---> node 20 : 13.02 minutes
+
+Time of tour: 3
+Tour of technician: [0, 12, 9, 1, 10, 18, 11, 0]
+Distance of the tour: 6.0922763744869375
+Time taken to complete tour: 10.5 minutes
+
+Technician 3 ---> node 0 : 0.0 minutes
+Technician 3 ---> node 12 : 2.3 minutes
+Technician 3 ---> node 9 : 4.35 minutes
+Technician 3 ---> node 1 : 5.15 minutes
+Technician 3 ---> node 10 : 5.39 minutes
+Technician 3 ---> node 18 : 6.89 minutes
+Technician 3 ---> node 11 : 7.72 minutes
+
+
+Time when the last technician come back to the lab: 16.55 minutes
+###########################################
+
+Try with the number of technician = 4
+
+Time of tour: 1
+Tour of technician: [0, 17, 6, 8, 14, 13, 20, 0]
+Distance of the tour: 7.903835344176608
+Time taken to complete tour: 13.63 minutes
+
+Technician 1 ---> node 0 : 0.0 minutes
+Technician 1 ---> node 17 : 3.75 minutes
+Technician 1 ---> node 6 : 5.71 minutes
+Technician 1 ---> node 8 : 6.08 minutes
+Technician 1 ---> node 14 : 8.61 minutes
+Technician 1 ---> node 13 : 10.75 minutes
+Technician 1 ---> node 20 : 11.02 minutes
+
+Time of tour: 2
+Tour of technician: [0, 12, 9, 1, 10, 18, 11, 0]
+Distance of the tour: 6.0922763744869375
+Time taken to complete tour: 10.5 minutes
+
+Technician 2 ---> node 0 : 0.0 minutes
+Technician 2 ---> node 12 : 2.3 minutes
+Technician 2 ---> node 9 : 4.35 minutes
+Technician 2 ---> node 1 : 5.15 minutes
+Technician 2 ---> node 10 : 5.39 minutes
+Technician 2 ---> node 18 : 6.89 minutes
+Technician 2 ---> node 11 : 7.72 minutes
+
+Time of tour: 3
+Tour of technician: [0, 16, 19, 15, 0]
+Distance of the tour: 5.118424140435963
+Time taken to complete tour: 8.82 minutes
+
+Technician 3 ---> node 0 : 0.0 minutes
+Technician 3 ---> node 16 : 2.06 minutes
+Technician 3 ---> node 19 : 3.58 minutes
+Technician 3 ---> node 15 : 5.51 minutes
+
+Time of tour: 4
+Tour of technician: [0, 3, 5, 2, 4, 7, 0]
+Distance of the tour: 8.218399098196816
+Time taken to complete tour: 14.17 minutes
+
+Technician 4 ---> node 0 : 0.0 minutes
+Technician 4 ---> node 3 : 4.14 minutes
+Technician 4 ---> node 5 : 5.85 minutes
+Technician 4 ---> node 2 : 8.87 minutes
+Technician 4 ---> node 4 : 9.82 minutes
+Technician 4 ---> node 7 : 11.8 minutes
+
+
+Time when the last technician come back to the lab: 14.17 minutes
+###########################################
+
+EOF
